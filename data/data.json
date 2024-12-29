@@ -5,7 +5,7 @@
         {
           "id":1,
           "title":"Portfolio",
-          "image":"../images/projects-images/portofolio.webp",
+          "image":"./images/projects-images/portofolio.webp",
           "category":"Angular",
           "demo":"https://ayman-sedkey-portfolio.netlify.app/home",
           "code":"https://github.com/Aaymansedkey10/portfolio-template.git",
@@ -14,7 +14,7 @@
         {
           "id":2,
           "title":"Weahter App",
-          "image":"../images/projects-images/weatherApp.webp",
+          "image":"./images/projects-images/weatherApp.webp",
           "category":"Angular",
           "demo":"https://template-weather-app.netlify.app/",
           "code":"https://github.com/Aaymansedkey10/Weather-App.git",
@@ -23,7 +23,7 @@
         {
           "id":3,
           "title":"Eshop market",
-          "image":"../images/projects-images/E-commerce.webp",
+          "image":"./images/projects-images/E-commerce.webp",
           "category":"Java Script",
           "demo":"https://aaymansedkey10.github.io/e-commerce/",
           "code":"https://github.com/Aaymansedkey10/e-commerce",
@@ -32,7 +32,7 @@
         {
           "id":4,
           "title":"Furniture | team project",
-          "image":"../images/projects-images/furni-team.webp",
+          "image":"./images/projects-images/furni-team.webp",
           "category":"Java Script",
           "demo":"https://furni-test.vercel.app/",
           "code":"https://github.com/Essam2004hekal/Furni-test",
@@ -41,7 +41,7 @@
         {
           "id":5,
           "title":"Calculator",
-          "image":"../images/projects-images/calculator.webp",
+          "image":"./images/projects-images/calculator.webp",
           "category":"Java Script",
           "demo":"https://aaymansedkey10.github.io/calculator-template/",
           "code":"https://github.com/Aaymansedkey10/calculator-template.git",
@@ -50,7 +50,7 @@
         {
           "id":6,
           "title":"To do List",
-          "image":"../images/projects-images/todolist.webp",
+          "image":"./images/projects-images/todolist.webp",
           "demo":"https://aaymansedkey10.github.io/to_do_list/",
           "code":"https://github.com/Aaymansedkey10/to_do_list.git",
           "details":"A task management application built with HTML, CSS, Bootstrap, and JavaScript, allowing users to add, mark, or delete tasks."
@@ -58,7 +58,7 @@
         {
           "id":7,
           "title":"counter",
-          "image":"../images/projects-images/counter.webp",
+          "image":"./images/projects-images/counter.webp",
           "demo":"https://aaymansedkey10.github.io/counter/",
           "category":"Java Script",
           "code":"https://github.com/Aaymansedkey10/counter.git",
@@ -67,7 +67,7 @@
         {
           "id":8,
           "title":"ministry of communication",
-          "image":"../images/projects-images/ministry-of-communication.webp",
+          "image":"./images/projects-images/ministry-of-communication.webp",
           "category":"Basics",
           "demo":"https://aaymansedkey10.github.io/the_ministry_of_communications/",
           "code":"https://github.com/Aaymansedkey10/the_ministry_of_communications",
@@ -77,7 +77,7 @@
         {
           "id":9,
           "title":"shapely",
-          "image":"../images/projects-images/Shapely.webp",
+          "image":"./images/projects-images/Shapely.webp",
           "category":"Basics",
           "demo":"https://aaymansedkey10.github.io/Shapely-project/",
           "code":"https://github.com/Aaymansedkey10/Shapely-project",
@@ -86,7 +86,7 @@
         {
           "id":10,
           "title":"charity | team project",
-          "image":"../images/projects-images/Bootstrap.webp",
+          "image":"./images/projects-images/Bootstrap.webp",
           "category":"Basics",
           "demo":"https://aaymansedkey10.github.io/Bootstrap-project/",
           "code":"https://github.com/Aaymansedkey10/Bootstrap-project",
@@ -95,7 +95,7 @@
         {
           "id":11,
           "title":"Gricklo",
-          "image":"../images/projects-images/Gricklo_1.webp",
+          "image":"./images/projects-images/Gricklo_1.webp",
           "category":"Basics",
           "demo":"https://aaymansedkey10.github.io/Gricklo/",
           "code":"https://github.com/Aaymansedkey10/Gricklo",
