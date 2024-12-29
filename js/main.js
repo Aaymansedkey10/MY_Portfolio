@@ -1,5 +1,5 @@
 // variable of the url
-const url = "../data/data.json";
+const url = "./data/data.json";
 
 // call showElements when widow scroll
 window.addEventListener('scroll', showElements);
